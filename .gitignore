@@ -1,0 +1,8 @@
+# Data (kept locally, not in the repo)
+data/
+
+# macOS / R clutter
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
